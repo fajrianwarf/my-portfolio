@@ -13,7 +13,7 @@ const About: React.FC = () => {
 							My story
 						</h2>
 						<p className='max-w-xl text-base font-medium lg:text-lg text-secondary'>
-							dwadaw
+							Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam sunt dolorum odit magnam esse vel, officia corporis iusto, adipisci consequuntur exercitationem, at quod. Culpa quod ipsam ad ipsum voluptates beatae?
 						</p>
 					</div>
 					<div className='w-full px-4 lg:w-1/2'>

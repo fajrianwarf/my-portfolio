@@ -11,14 +11,14 @@ const Footer: React.FC = () => {
 						</h2>
 						<p>fajrianwarfachrul@gmail.com</p>
 						<p>Jl. Manggis VI, Semarang City, 50249</p>
-						<p className='mb-4'>Indonesia 🇮🇩</p>
+						<p className='mb-4'>Indonesia</p>
 						<div className='px-2 py-1 bg-white rounded-md bg-opacity-90 max-w-max'>
 							<Contact />
 						</div>
 					</div>
 				</div>
 				<div className='flex flex-col items-center justify-center w-full py-2 text-white border-t-2 border-slate-700 '>
-					<p className='py-2'>@2022 build with reactJS</p>
+					<p className='py-2'>@2022 build with <a href='https://reactjs.org/' target={'_blank'} rel="noreferrer" className='text-blue-400'>reactJS</a></p>
 				</div>
 			</div>
 		</footer>
